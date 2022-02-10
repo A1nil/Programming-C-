@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Pen\Pen\bin\Debug\Pen.exe.config
+C:\Users\Acer\source\repos\Pen\Pen\bin\Debug\Pen.exe
+C:\Users\Acer\source\repos\Pen\Pen\bin\Debug\Pen.pdb
+C:\Users\Acer\source\repos\Pen\Pen\obj\Debug\Pen.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Pen\Pen\obj\Debug\Pen.Form1.resources
+C:\Users\Acer\source\repos\Pen\Pen\obj\Debug\Pen.Properties.Resources.resources
+C:\Users\Acer\source\repos\Pen\Pen\obj\Debug\Pen.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Pen\Pen\obj\Debug\Pen.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Pen\Pen\obj\Debug\Pen.exe
+C:\Users\Acer\source\repos\Pen\Pen\obj\Debug\Pen.pdb

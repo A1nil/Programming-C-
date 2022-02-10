@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Payment\Payment\bin\Debug\Payment.exe.config
+C:\Users\Acer\source\repos\Payment\Payment\bin\Debug\Payment.exe
+C:\Users\Acer\source\repos\Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\Acer\source\repos\Payment\Payment\obj\Debug\Payment.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\Users\Acer\source\repos\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\Acer\source\repos\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Payment\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\Acer\source\repos\Payment\Payment\obj\Debug\Payment.pdb

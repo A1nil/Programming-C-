@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\account.cs\account.cs\bin\Debug\account.cs.exe.config
+C:\Users\Acer\source\repos\account.cs\account.cs\bin\Debug\account.cs.exe
+C:\Users\Acer\source\repos\account.cs\account.cs\bin\Debug\account.cs.pdb
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.Form1.resources
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.Properties.Resources.resources
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.exe
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.pdb
+C:\Users\Acer\source\repos\account.cs\account.cs\obj\Debug\account.cs.Form2.resources

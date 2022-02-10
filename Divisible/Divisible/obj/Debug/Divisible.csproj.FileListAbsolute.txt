@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Divisible\Divisible\bin\Debug\Divisible.exe.config
+C:\Users\Acer\source\repos\Divisible\Divisible\bin\Debug\Divisible.exe
+C:\Users\Acer\source\repos\Divisible\Divisible\bin\Debug\Divisible.pdb
+C:\Users\Acer\source\repos\Divisible\Divisible\obj\Debug\Divisible.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Divisible\Divisible\obj\Debug\Divisible.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Divisible\Divisible\obj\Debug\Divisible.exe
+C:\Users\Acer\source\repos\Divisible\Divisible\obj\Debug\Divisible.pdb

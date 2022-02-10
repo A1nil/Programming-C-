@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SUM\SUM\obj\Debug\SUM.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SUM\SUM\obj\Debug\SUM.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SUM\SUM\bin\Debug\SUM.exe.config
+C:\Users\Acer\source\repos\SUM\SUM\bin\Debug\SUM.exe
+C:\Users\Acer\source\repos\SUM\SUM\bin\Debug\SUM.pdb
+C:\Users\Acer\source\repos\SUM\SUM\obj\Debug\SUM.exe
+C:\Users\Acer\source\repos\SUM\SUM\obj\Debug\SUM.pdb

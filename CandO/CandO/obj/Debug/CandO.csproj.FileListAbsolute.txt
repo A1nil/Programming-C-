@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\CandO\CandO\bin\Debug\CandO.exe.config
+C:\Users\Acer\source\repos\CandO\CandO\bin\Debug\CandO.exe
+C:\Users\Acer\source\repos\CandO\CandO\bin\Debug\CandO.pdb
+C:\Users\Acer\source\repos\CandO\CandO\obj\Debug\CandO.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\CandO\CandO\obj\Debug\CandO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CandO\CandO\obj\Debug\CandO.exe
+C:\Users\Acer\source\repos\CandO\CandO\obj\Debug\CandO.pdb

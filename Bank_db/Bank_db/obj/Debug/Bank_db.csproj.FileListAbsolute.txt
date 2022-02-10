@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Bank_db\Bank_db\bin\Debug\Bank_db.exe.config
+C:\Users\Acer\source\repos\Bank_db\Bank_db\bin\Debug\Bank_db.exe
+C:\Users\Acer\source\repos\Bank_db\Bank_db\bin\Debug\Bank_db.pdb
+C:\Users\Acer\source\repos\Bank_db\Bank_db\obj\Debug\Bank_db.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Bank_db\Bank_db\obj\Debug\Bank_db.Form1.resources
+C:\Users\Acer\source\repos\Bank_db\Bank_db\obj\Debug\Bank_db.Properties.Resources.resources
+C:\Users\Acer\source\repos\Bank_db\Bank_db\obj\Debug\Bank_db.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Bank_db\Bank_db\obj\Debug\Bank_db.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Bank_db\Bank_db\obj\Debug\Bank_db.exe
+C:\Users\Acer\source\repos\Bank_db\Bank_db\obj\Debug\Bank_db.pdb

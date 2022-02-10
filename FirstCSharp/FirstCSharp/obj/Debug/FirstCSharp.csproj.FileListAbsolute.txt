@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\FirstCSharp\FirstCSharp\bin\Debug\FirstCSharp.exe.config
+C:\Users\Acer\source\repos\FirstCSharp\FirstCSharp\bin\Debug\FirstCSharp.exe
+C:\Users\Acer\source\repos\FirstCSharp\FirstCSharp\bin\Debug\FirstCSharp.pdb
+C:\Users\Acer\source\repos\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.exe
+C:\Users\Acer\source\repos\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.pdb

@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\successful\successful\bin\Debug\successful.exe.config
+C:\Users\Acer\source\repos\successful\successful\bin\Debug\successful.exe
+C:\Users\Acer\source\repos\successful\successful\bin\Debug\successful.pdb
+C:\Users\Acer\source\repos\successful\successful\obj\Debug\successful.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\successful\successful\obj\Debug\successful.Form1.resources
+C:\Users\Acer\source\repos\successful\successful\obj\Debug\successful.Properties.Resources.resources
+C:\Users\Acer\source\repos\successful\successful\obj\Debug\successful.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\successful\successful\obj\Debug\successful.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\successful\successful\obj\Debug\successful.exe
+C:\Users\Acer\source\repos\successful\successful\obj\Debug\successful.pdb
